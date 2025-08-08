@@ -17,10 +17,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
-**AI / ML / DL:**  
-![AI](https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=OpenAI&logoColor=white)
-![ML](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge&logo=scikitlearn&logoColor=orange)
-![DL](https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
 
 **Computer Science Fundamentals:**  
 - Data Structures & Algorithms (DSA)  
