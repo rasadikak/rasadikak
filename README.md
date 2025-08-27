@@ -1,45 +1,66 @@
-# Hi there, I'm Kaushani Rasadika 👋
+# 👋 Hi, I'm Kaushani Rasadika
 
+I am a **AI/ML Enthusiast** with a passion for building intelligent systems, web applications, and solving real-world problems using technology.
 
+---
 
+## 🔹 About Me
 
+- 🤖 Interested in **AI, ML and Deep Learning**   
+- 🚀 Always learning new technologies and building projects  
+  
 
+---
 
+## 🛠️ Skills
 
-## 🛠️ Tech Stack
+**Programming Languages & Frameworks:**  
+Python | HTML | CSS | JavaScript | PHP | C
 
-**Frontend:**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+**AI & ML (if applicable):**  
+TensorFlow | Keras | PyTorch | OpenCV | Scikit-Learn | Pandas | NumPy  
 
-**Programming Languages:**  
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+**Web & Backend:**  
+Flask | Streamlit | MySQL | SQLite | REST APIs 
 
+**Tools & Platforms:**  
+Git | GitHub | Hugging Face | Jupyter Notebook | VS Code | Google colab
 
+---
 
-**Computer Science Fundamentals:**  
-- Data Structures & Algorithms (DSA)  
+## 📂 Projects / Highlights
+
+### Project 1
+- Short description  
+- [GitHub Repo Link](#)
+
+### Project 2
+- Short description  
+- [GitHub Repo Link](#)
+
+### Project 3
+- Short description  
+- [GitHub Repo Link](#)
+
 
 
 ---
 
-
-
 ## 📫 Connect with Me
 
-[![Gmail](rasadikak@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/kaushani-rasadika-410013376)  
 
 
+---
+
+## 🌟 GitHub Stats
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rasadikak&show_icons=true&theme=radical)
 
 
+---
 
-
-
-
-
-
-
-
-
+## ⚡ Fun Facts
+- I love combining **AI with web applications**  
+- I enjoy **learning new languages and frameworks**  
+- Always experimenting with **new AI/ML models and datasets**
