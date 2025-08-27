@@ -48,7 +48,7 @@ Git | GitHub | Hugging Face | Jupyter Notebook | VS Code | Google colab
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-YourName-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/kaushani-rasadika-410013376)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rasadika-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/kaushani-rasadika-410013376)  
 
 
 ---
