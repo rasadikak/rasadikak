@@ -46,7 +46,7 @@ Git | GitHub | Hugging Face | Jupyter Notebook | VS Code | Google colab | Postma
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rasadika-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/kaushani-rasadika-410013376) 
+[LinkedIn]
 
 portfolio:
 [https://kaushanirasadika.vercel.app/](https://kaushanirasadika.vercel.app/)
@@ -56,7 +56,7 @@ portfolio:
 
 
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rasadikak&show_icons=true&theme=radical)
+
 
 
 ---
