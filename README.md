@@ -15,32 +15,30 @@ I am a **AI/ML Enthusiast** with a passion for building intelligent systems, web
 ## 🛠️ Skills
 
 **Programming Languages & Frameworks:**  
-Python | HTML | CSS | JavaScript | PHP | C
+Python | HTML | CSS | JavaScript | PHP | C | Java
 
-**AI & ML (if applicable):**  
-TensorFlow | Keras | PyTorch | OpenCV | Scikit-Learn | Pandas | NumPy  
 
 **Web & Backend:**  
-Flask | Streamlit | MySQL | SQLite | REST APIs 
+Flask | FastAPI | MySQL | SQLite | REST APIs | Postgresql
 
 **Tools & Platforms:**  
-Git | GitHub | Hugging Face | Jupyter Notebook | VS Code | Google colab
+Git | GitHub | Hugging Face | Jupyter Notebook | VS Code | Google colab | Postman
 
 ---
 
 ## 📂 Projects / Highlights
 
-### Project 1
-- Short description  
-- [GitHub Repo Link](#)
+### Serendib-AI(on going project) 
+ 
+- [[https://github.com/rasadikak/AI_trip_planning_webapp.git](https://github.com/rasadikak/AI_trip_planning_webapp.git)]
 
-### Project 2
-- Short description  
-- [GitHub Repo Link](#)
+### Laptop price predictor 
 
-### Project 3
-- Short description  
-- [GitHub Repo Link](#)
+- [https://github.com/rasadikak/Laptop_Price_Predictor_new.git](https://github.com/rasadikak/Laptop_Price_Predictor_new.git)
+
+### Image generator web app
+
+- [https://github.com/rasadikak/Text_to_Image_generator_new.git](https://github.com/rasadikak/Text_to_Image_generator_new.git)
 
 
 
@@ -48,19 +46,19 @@ Git | GitHub | Hugging Face | Jupyter Notebook | VS Code | Google colab
 
 ## 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rasadika-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/kaushani-rasadika-410013376)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rasadika-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/kaushani-rasadika-410013376) 
+
+portfolio:
+[https://kaushanirasadika.vercel.app/](https://kaushanirasadika.vercel.app/)
 
 
 ---
 
-## 🌟 GitHub Stats
+
 
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rasadikak&show_icons=true&theme=radical)
 
 
 ---
 
-## ⚡ Fun Facts
-- I love combining **AI with web applications**  
-- I enjoy **learning new languages and frameworks**  
-- Always experimenting with **new AI/ML models and datasets**
+
