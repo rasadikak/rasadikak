@@ -1,20 +1,18 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Kaushani Rasadika 👋
 
 <p align="left">
-  <a href="https://linkedin.com/in/[Your-LinkedIn]"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:[your.email@example.com]"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://linkedin.com/in/kaushanirasadika/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:rasadikak@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
 ---
 
 ### 🚀 About Me
 
-I am an aspiring **AI / Machine Learning Engineer** passionate about building intelligent systems, processing multimodal data, and deploying scalable data-driven solutions. I love bridging the gap between cutting-edge research and practical, real-world applications.
+I am an aspiring **software engineer** passionate about building intelligent systems, processing multimodal data, and deploying scalable data-driven solutions. I love bridging the gap between cutting-edge research and practical, real-world applications.
 
-- 🎓 Undergraduate Student pursuing a **B.Sc. (Hons) in Artificial Intelligence**
-- 🔭 Currently working on: Advanced NLP, Multi-Agent Systems, and Explainable AI (XAI)
-- 🌱 Learning & exploring: Graph Neural Networks, LLM Fine-tuning, and MLOps pipelines
-- 💬 Ask me about: Machine Learning, Deep Learning, and Python-based backend development
+- 🎓 Undergraduate Student pursuing a **B.Sc. (Hons) in Information Technology, University of Moratuwa**
+
 
 ---
 
@@ -67,34 +65,37 @@ I am an aspiring **AI / Machine Learning Engineer** passionate about building in
   </tr>
 </table>
 
-*(Feel free to modify the `icons?i=` list above with other tools like `mongodb`, `aws`, `react`, etc. from [Skill Icons](https://skillicons.dev))*
+
 
 ---
 
 ### 🌟 Featured Projects
 
-#### 🤖 **[Project Name 1: e.g., Multimodal Disinformation & Fake News Detection System]**
-*A comprehensive framework leveraging deep learning and multi-agent verification to detect and explain digital misinformation.*
-* **Core Tech:** Python, BERT, Transformers, Explainable AI (XAI), FastAPI, Streamlit
-* **Key Features:** 
-  - Integrated State-of-the-Art NLP models for text classification.
-  - Implemented AI verification agents to double-check claims.
-  - Embedded XAI elements to provide transparent reasoning for predictions.
-* 🔗 [Link to Repository](https://github.com/yourusername/your-repo-name)
+#### 🤖 **AI Trip Planner Web App**
+*AI Trip Planner is an intelligent web application that generates personalized travel plans based on user preferences such as destination, budget, accomodation and duration etc. It integrates AI models and external APIs to provide smart recommendations and real-time travel insights.*
+* **Core Tech:** FastAPI, HTML, Tailwind CSS, PostgreSQL
 
-#### 📊 **[Project Name 2: e.g., Predictive Analytics / Core ML Project]**
-*Brief description of another strong project highlighting your machine learning or data science skills.*
-* **Core Tech:** Scikit-Learn, Pandas, NumPy, Matplotlib
-* **Key Features:** Feature engineering, hyperparameter tuning, and deployment.
-* 🔗 [Link to Repository](https://github.com/yourusername/your-repo-name)
+* 🔗 [Link to Repository]((https://github.com/rasadikak/AI_trip_planning_webapp.git))
+
+#### 📊 **AI-Crop-Disease-Yield-Platform**
+*AgriSense is an AI-powered agricultural platform that gives Sri Lankan farmers real-time crop yield predictions, plant disease detection, and weather anomaly alerts. Built with React, Express.js, and FastAPI, it combines machine learning models with an AI chatbot to support smarter, data-driven farming decisions.*
+* **Core Tech:**React, Tailwind CSS Express.js, FastAPI, PostgreSQL
+
+* 🔗 [Link to Repository](https://github.com/rasadikak/AI-Crop-Disease-Yield-Platform.git)
+
+#### 🤖 **Smart Credit API**
+*Second year software project*
+* **Core Tech:** 
+
+* 🔗 [Link to Repository]((https://github.com/NishenAMJ/Smart_Credit_API.git))
 
 ---
 
 ### 📈 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=[YOUR-GITHUB-USERNAME]&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=[YOUR-GITHUB-USERNAME]&layout=compact&theme=radical" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rasadikak&show_icons=true&theme=radical" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-top-langs.vercel.app/api/?username=rasadikak&layout=compact&theme=radical" alt="Top Languages" height="180" />
 </p>
 
 ---
@@ -103,6 +104,6 @@ I am an aspiring **AI / Machine Learning Engineer** passionate about building in
 
 Let's collaborate on AI/ML projects, open-source initiatives, or just chat about the future of tech!
 
-* **LinkedIn:** [linkedin.com/in/yourprofile](https://linkedin.com/in/[Your-LinkedIn])
-* **Email:** [your.email@example.com](mailto:[your.email@example.com])
-* **Portfolio/Website:** [yourwebsite.com](https://yourwebsite.com) _(Optional)_
+* **LinkedIn:** [linkedin.com/in/kaushanirasadika](https://www.linkedin.com/in/kaushanirasadika/)
+* **Email:** [rasadikak@gmail.com](mailto:rasadikak@gmail.com)
+* **Portfolio/Website:** [https://portfolio-rasadikaks-projects.vercel.app/](https://portfolio-rasadikaks-projects.vercel.app/) 
