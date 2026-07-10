@@ -51,7 +51,6 @@ I am an aspiring **software engineer** passionate about building intelligent sys
   <tr>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" /><br>PostgreSQL</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL" /><br>MySQL</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" /><br>MongoDB</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=firebase" width="48" height="48" alt="Firebase" /><br>Firebase</td>
   </tr>
 </table>
@@ -83,7 +82,7 @@ I am an aspiring **software engineer** passionate about building intelligent sys
 
 #### 🤖 **Smart Credit API**
 *Second-year software engineering project.*
-* **Core Tech:** *[Add core tech here, e.g., Nest.js, Java, MySQL]*
+* **Core Tech:** React, React Native, Nest.js, Firebase
 * 🔗 [Link to Repository](https://github.com/NishenAMJ/Smart_Credit_API.git)
 
 ---
