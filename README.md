@@ -11,7 +11,7 @@
 
 I am an aspiring **software engineer** passionate about building intelligent systems, processing multimodal data, and deploying scalable data-driven solutions. I love bridging the gap between cutting-edge research and practical, real-world applications.
 
-- 🎓 Undergraduate Student pursuing a **B.Sc. (Hons) in Artificial Intelligence, University of Moratuwa**
+- 🎓 Undergraduate Student pursuing a **B.Sc. (Hons) in Information Technology, University of Moratuwa**
 
 ---
 
