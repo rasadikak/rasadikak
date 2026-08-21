@@ -74,6 +74,7 @@ I am an aspiring **software engineer** passionate about building intelligent sys
 *AI Trip Planner is an intelligent web application that generates personalized travel plans based on user preferences such as destination, budget, accommodation, and duration. It integrates AI models and external APIs to provide smart recommendations and real-time travel insights.*
 * **Core Tech:** FastAPI, HTML, Tailwind CSS, PostgreSQL
 * 🔗 [Link to Repository](https://github.com/rasadikak/AI_trip_planning_webapp.git)
+*    [Live Demo](https://serendib-ai-902076322619.asia-south1.run.app/frontend/home/home.html)
 
 #### 📊 **AI-Crop-Disease-Yield-Platform**
 *AgriSense is an AI-powered agricultural platform that gives Sri Lankan farmers real-time crop yield predictions, plant disease detection, and weather anomaly alerts. Built with React, Express.js, and FastAPI, it combines machine learning models with an AI chatbot to support smarter, data-driven farming decisions.*
