@@ -80,6 +80,7 @@ I am an aspiring **software engineer** passionate about building intelligent sys
 *AgriSense is an AI-powered agricultural platform that gives Sri Lankan farmers real-time crop yield predictions, plant disease detection, and weather anomaly alerts. Built with React, Express.js, and FastAPI, it combines machine learning models with an AI chatbot to support smarter, data-driven farming decisions.*
 * **Core Tech:** React, Tailwind CSS, Express.js, FastAPI, PostgreSQL
 * 🔗 [Link to Repository](https://github.com/rasadikak/AI-Crop-Disease-Yield-Platform.git)
+* Frontend - [ai-crop-disease-yield-platform.vercel.app](ai-crop-disease-yield-platform.vercel.app)
 
 #### 🤖 **Smart Credit API**
 *Second-year software engineering project.*
