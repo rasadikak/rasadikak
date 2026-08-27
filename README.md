@@ -82,7 +82,7 @@ I am an aspiring **software engineer** passionate about building intelligent sys
 * 🔗 [Link to Repository](https://github.com/rasadikak/AI-Crop-Disease-Yield-Platform.git)
 * Frontend - [ai-crop-disease-yield-platform.vercel.app](ai-crop-disease-yield-platform.vercel.app)
 
-#### 🤖 **Smart Credit API**
+#### 🤖 **Smart Credit API- Second year software project**
 *Smart Credit+ is a peer-to-peer digital lending platform that connects borrowers, lenders, and administrators through a transparent and structured digital lending workflow. Built with React, React native, NestJS, Firestore, and cloud-based services, it supports borrower and lender mobile applications, KYC verification, loan advertisements, digital agreements, QR-based repayment recording, chat communication, portfolio analytics, and administrative monitoring to make the lending process more secure, organized, and accessible.*
 * **Core Tech:** React, React Native, Nest.js, Firebase
 * 🔗 [Link to Repository](https://github.com/NishenAMJ/Smart_Credit_API.git)
