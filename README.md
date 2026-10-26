@@ -59,7 +59,7 @@ I am an aspiring **software engineer** passionate about building intelligent sys
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br>PyTorch</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /><br>TensorFlow</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-Learn" /><br>Scikit-Learn</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV" /><br>OpenCV</td>
+   
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" /><br>Pandas</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" /><br>NumPy</td>
   </tr>
@@ -83,7 +83,7 @@ I am an aspiring **software engineer** passionate about building intelligent sys
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" /><br>Google Cloud</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>Linux</td>
-    <td align="center" width="96"><img src="https://skillicons.dev/icons?i=nginx" width="48" height="48" alt="Nginx" /><br>Nginx</td>
+    
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /><br>GitHub Actions</td>
   </tr>
 </table>
@@ -115,7 +115,7 @@ I am an aspiring **software engineer** passionate about building intelligent sys
 *AgriSense is an AI-powered agricultural platform that gives Sri Lankan farmers real-time crop yield predictions, plant disease detection, and weather anomaly alerts. Built with React, Express.js, and FastAPI, it combines machine learning models with an AI chatbot to support smarter, data-driven farming decisions.*
 * **Core Tech:** React, Tailwind CSS, Express.js, FastAPI, PostgreSQL
 * 🔗 [Link to Repository](https://github.com/rasadikak/AI-Crop-Disease-Yield-Platform.git)
-* Frontend - [ai-crop-disease-yield-platform.vercel.app](ai-crop-disease-yield-platform.vercel.app)
+
 
 #### 🤖 **Smart Credit API- Second year software project**
 *Smart Credit+ is a peer-to-peer digital lending platform that connects borrowers, lenders, and administrators through a transparent and structured digital lending workflow. Built with React, React native, NestJS, Firestore, and cloud-based services, it supports borrower and lender mobile applications, KYC verification, loan advertisements, digital agreements, QR-based repayment recording, chat communication, portfolio analytics, and administrative monitoring to make the lending process more secure, organized, and accessible.*
