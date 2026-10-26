@@ -59,7 +59,6 @@ I am an aspiring **software engineer** passionate about building intelligent sys
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /><br>PyTorch</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" /><br>TensorFlow</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-Learn" /><br>Scikit-Learn</td>
-   
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=pandas" width="48" height="48" alt="Pandas" /><br>Pandas</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=numpy" width="48" height="48" alt="NumPy" /><br>NumPy</td>
   </tr>
@@ -83,7 +82,6 @@ I am an aspiring **software engineer** passionate about building intelligent sys
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="Google Cloud" /><br>Google Cloud</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" /><br>Docker</td>
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" /><br>Linux</td>
-    
     <td align="center" width="96"><img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="GitHub Actions" /><br>GitHub Actions</td>
   </tr>
 </table>
