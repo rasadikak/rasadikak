@@ -127,6 +127,15 @@ I am an aspiring **software engineer** passionate about building intelligent sys
 * 🔗 [Link to Repository](https://github.com/rasadikak/blog_webapp.git)
 * [Live Demo](http://13.60.190.172)
 
+
+#### 🌍 **KanaDojo — Open Source Contribution**
+*KanaDojo is an open source platform for learning Japanese, inspired by Duolingo and Monkeytype. I contributed to the project by adding a new entry to its community content data. The pull request was linked to its issue, passed the project's automated review, and was merged into the main repository.*
+* **Core Tech:** Next.js, TypeScript, Tailwind CSS, Git, GitHub
+* **My Contribution:** Community content update (JSON data file), merged in November 2026
+* 🔗 [Link to Pull Request](https://github.com/lingdojo/kana-dojo/pull/33476)
+* [Project Repository](https://github.com/lingdojo/kana-dojo)
+
+
 ---
 
 ### 📈 GitHub Stats
